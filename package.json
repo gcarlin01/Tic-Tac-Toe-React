@@ -2,7 +2,7 @@
   "name": "tic-tac-toe-react",
   "version": "1.0.0",
   "main": "/src/index.js",
-  "homepage": "http://gcarlin01.github.io/<Tic-Tac-Toe-React>",
+  "homepage": "http://gcarlin01.github.io/Tic-Tac-Toe-React",
 
   "scripts": {
     "start": "react-scripts start",
