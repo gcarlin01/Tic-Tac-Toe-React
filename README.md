@@ -2,6 +2,10 @@
 
 This is a simple Tic Tac Toe game built using React.
 
+## Demo
+
+[A demo of our project goal is available online](https://gcarlin01.github.io/Tic-Tac-Toe-React/)!
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
