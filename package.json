@@ -2,10 +2,14 @@
   "name": "tic-tac-toe-react",
   "version": "1.0.0",
   "main": "/src/index.js",
+  "homepage": "http://gcarlin01.github.io/<Tic-Tac-Toe-React>",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "dependencies": {
@@ -13,8 +17,9 @@
     "react-dom": "^18.2.0",
     "react-scripts": "^3.0.1"
   },
-  "devDependencies": {},
-  
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
   "author": "",
   "license": "ISC",
   "browserslist": {
